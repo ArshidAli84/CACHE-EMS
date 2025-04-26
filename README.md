@@ -1,5 +1,5 @@
 # CACHE-EMS
-Energy-Constrained Critical Load Aware Post-Disaster Home Energy Management
+Energy-Constrained Critical Load Aware Post-Disaster Home Energy Management (CACHE-EMS)
 
 1. Run the python file (Generating_random_Loads and Criticality) that will give the output parameters for loads, criticaltiy and labels.
 2. Copy it and input it to the main julia file
